@@ -1,0 +1,7 @@
+{
+    "directory": "vendor",
+    "registry": "http://bower.herokuapp.com",
+    "proxy": "http://3.87.248.1:88",
+    "https-proxy": "http://3.87.248.1:88",
+    "strict-ssl": false
+}
